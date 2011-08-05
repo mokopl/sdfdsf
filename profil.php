@@ -4,7 +4,7 @@
  *
  *
  * @package		RenEngine
- * @author		Dariusz Tatka
+ * @author		asdasds
  * @copyright	Copyright (c) 2011
  * @license		http://renengine@
  * @link		http://renengine@
